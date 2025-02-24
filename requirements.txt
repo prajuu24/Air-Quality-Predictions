@@ -1,0 +1,10 @@
+Streamlit
+Pandas
+NumPy
+Plotly
+Scikit-learn
+Matplotlib
+Seaborn
+XGBoost
+TensorFlow/Keras (For LSTM)
+Requests (For API calls)
